@@ -58,7 +58,7 @@ coverage.xml
 *.ipynb
 */data/*
 */html/*
-
+slides/*
 
 # Translations
 *.mo
