@@ -55,6 +55,7 @@ coverage.xml
 *.html
 *.txt
 *.zip
+*.ipynb
 */data/*
 */html/*
 
