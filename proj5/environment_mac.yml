@@ -1,0 +1,21 @@
+name: cs6476p5
+channels:
+- pytorch
+- menpo
+- defaults
+dependencies:
+- jupyter
+- matplotlib
+- python=3.5
+- scikit-image
+- scikit-learn
+- scipy
+- numpy
+- opencv3
+- cyvlfeat
+- pytorch
+- torchvision
+- pip
+- pip:
+  - visdom
+- pyyaml

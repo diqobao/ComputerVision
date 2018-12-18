@@ -48,12 +48,13 @@ coverage.xml
 .pytest_cache/
 
 # data
-.pdf
-.bmp
-.jpg
-.png
-.html
-.txt
+*.pdf
+*.bmp
+*.jpg
+*.png
+*.html
+*.txt
+*.zip
 */data/*
 */html/*
 
