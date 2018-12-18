@@ -47,6 +47,17 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+# data
+.pdf
+.bmp
+.jpg
+.png
+.html
+.txt
+*/data/*
+*/html/*
+
+
 # Translations
 *.mo
 *.pot
@@ -102,3 +113,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.vscode
